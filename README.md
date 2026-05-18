@@ -3,7 +3,7 @@
 **Next‑Generation API Security & Risk Detection Platform**  
 *B2B + B2C | Mobile Protection | Zero‑Trust Ready | SaaS*
 
-![Nova Sentinel Logo](dashboard/src/assets/logo.svg)
+
 
 ---
 
